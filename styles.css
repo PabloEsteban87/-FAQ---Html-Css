@@ -1,0 +1,35 @@
+.menu{
+    position: fixed;
+    text-align: left;
+    
+}
+
+ul{
+    list-style: none;
+    padding-left: 0px;
+    
+}
+
+ul li{
+    border: 1px solid black;
+    margin-bottom: 5px;
+    text-decoration: none;
+}
+ul li a{
+    color: black;
+}
+
+.pagina{
+    display: inline-block;
+    position: relative;
+    left: 21%;
+    width: 77%;
+}
+
+p{
+    text-align: justify;
+}
+
+a:link, a:visited, a:active {
+    text-decoration:none;
+}
